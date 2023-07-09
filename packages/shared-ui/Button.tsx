@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Button = (props: any) => {
+export const Button: React.FC = (props: any) => {
   return (
     <button
       className={props.className ?? 'btn'}
