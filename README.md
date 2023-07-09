@@ -1,7 +1,5 @@
 # monorepo with pnpm and nx
 
-<https://dev.to/nx/setup-a-monorepo-with-pnpm-workspaces-and-speed-it-up-with-nx-1eem>
-
 ## 常用命令
 
 ```shell
@@ -29,3 +27,6 @@ nx graph
 # 显式项目之间的依赖关系图
 
 ```
+
+<https://dev.to/nx/setup-a-monorepo-with-pnpm-workspaces-and-speed-it-up-with-nx-1eem>
+<https://juejin.cn/post/7242623686900482108>
